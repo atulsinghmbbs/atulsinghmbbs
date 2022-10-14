@@ -1,4 +1,4 @@
-### Hi there 👋
+*/### Hi there 👋*/
 
 <!--
 **atulsinghmbbs/atulsinghmbbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Brajkishor Tomar...
+    I'm Atul Singh Bhadouria...
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brajkishor-singh-tomar-719941133/" />
+    <a href="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/" />
     </a>
     <a href="https://brajkishor-tomar-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://brajkishor-tomar-portfolio.netlify.app/" />
     </a>
-    <a title="b.ktomar98@gmail.com" href="mailto:b.ktomar98@gmail.com">
+    <a title="b.ktomar98@gmail.com" href="mailto:atulbhadouria53@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="b.ktomar98@gmail.com" />
     </a>
 </p>
