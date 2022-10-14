@@ -1,4 +1,3 @@
-*/### Hi there 👋*/
 
 <!--
 **atulsinghmbbs/atulsinghmbbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,8 +72,8 @@ Here are some ideas to get you started:
     <a href="https://brajkishor-tomar-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://brajkishor-tomar-portfolio.netlify.app/" />
     </a>
-    <a title="b.ktomar98@gmail.com" href="mailto:atulbhadouria53@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="b.ktomar98@gmail.com" />
+    <a title="atulbhadouria53@gmail.com" href="mailto:atulbhadouria53@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atulbhadouria53@gmail.com" />
     </a>
 </p>
 <br>
@@ -88,8 +87,8 @@ Here are some ideas to get you started:
  <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BKS2315&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="BKS2315" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKS2315&layout=compact&exclude_repo=masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="BKS2315" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsingh" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghmbbs&layout=compact&exclude_repo=masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
 </p>
 <br>
   
@@ -97,7 +96,7 @@ Here are some ideas to get you started:
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/BKS2315"><img alt="bk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BKS2315&custom_title=BKS2315's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/atulsinghmbbs"><img alt="atul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atulsinghmbbs&custom_title=atulsinghmbbs's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
