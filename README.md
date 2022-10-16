@@ -19,6 +19,19 @@ Here are some ideas to get you started:
     I'm Atul Singh Bhadouria...
 </h1>
 
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/" />
+    </a>
+    <a href="https://atulsinghmbbs.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://atulsinghmbbs.github.io/" />
+    </a>
+    <a title="atulbhadouria53@gmail.com" href="mailto:atulbhadouria53@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atulbhadouria53@gmail.com" />
+    </a>
+</p>
+<br>
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
@@ -62,21 +75,9 @@ Here are some ideas to get you started:
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
 
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/atul-singh-bhadouria-5a1a88108/" />
-    </a>
-    <a href="https://atulsinghbhadouria.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://atulsinghbhadouria.netlify.app/" />
-    </a>
-    <a title="atulbhadouria53@gmail.com" href="mailto:atulbhadouria53@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="atulbhadouria53@gmail.com" />
-    </a>
-</p>
-<br>
+
 
  
  
