@@ -88,7 +88,7 @@ Here are some ideas to get you started:
  <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsingh" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghmbbs&layout=compact&exclude_repo=masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
 </p>
 <br>
