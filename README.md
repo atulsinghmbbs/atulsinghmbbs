@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/atulsinghmbbs"><img alt="atul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atulsinghmbbs&custom_title=atulsinghmbbs's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/atulsinghmbbs"><img alt="atul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atulsinghmbbs&custom_title=atulsinghmbbs's%20Contribution%20Graph&theme=react-dark"/></a>
   <br/>
 
 
