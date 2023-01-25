@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 <h2><i>Top Repositories</i></h2>
 
 
-<p>
+<!-- <p>
 
 <a href="https://github.com/vinaykumar2n/succinct-wrench-1095">
-       
-    <p>A REST API for a Bus Reservation System Portal application.This API performs all the fundamental CRUD operations ofany Bus Reservation System Portal with user validation at...</p>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykumar2n&repo=succinct-wrench-1095&locale=en&border_radius=0&theme=dark" alt="BKS2315" />
+   
     </a> 
 
 
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
     </a>
    
 </p>
-
+ -->
 
 
 
