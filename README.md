@@ -121,14 +121,14 @@ Here are some ideas to get you started:
 <p>
 
 <a href="https://github.com/bhupirao/Foodie-Express">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupirao&repo=Foodie-Express&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupirao&repo=Foodie-Express&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs"/>
    
-    </a> 
+  </a> 
 
 
    
    <a href="https://github.com/Rishon-A-Singh/Online-Cab-Booking-backend">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishon-A-Singh&repo=Online-Cab-Booking-backend&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh" 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishon-A-Singh&repo=Online-Cab-Booking-backend&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh"/>
     </a>
    
 </p>
