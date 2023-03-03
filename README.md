@@ -86,7 +86,17 @@ Here are some ideas to get you started:
 <!----------------------------------- Star Section ------------------------------------>
 
  <h2><i>My GitHub Stats</i></h2>
- ### :trophy: Recent GitHub Activity
+
+<p>
+<!--     <img align="center" src="https://github-readmestats.vercel.app/apiusername=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" /> -->
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atul singh" height="139" />
+<!--     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atulsinghmbbs&theme=react&line_height=40&hide=css"/> </a> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupirao&layout=compact&exclude_repo=masai-course/atul_fw19_0455,Foodie-Express=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
+</p>
+<br>
+  
+ <!--------------------------------------------------------------------------------> 
+   ### :trophy: Recent GitHub Activity
  <p>   
  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=atulsinghmbbs&theme=react">
         <img
@@ -95,15 +105,6 @@ Here are some ideas to get you started:
         />
  </a>    
 </p>
-<p>
-<!--     <img align="center" src="https://github-readmestats.vercel.app/apiusername=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" /> -->
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atul singh" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupirao&layout=compact&exclude_repo=masai-course/atul_fw19_0455,Foodie-Express=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
-</p>
-<br>
-  
- <!--------------------------------------------------------------------------------> 
-  
 
 <!--   <br/>
    <a href="https://github.com/atulsinghmbbs"><img alt="atul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atulsinghmbbs&custom_title=atulsinghmbbs's%20Contribution%20Graph&theme=react-dark"/></a>
@@ -115,25 +116,25 @@ Here are some ideas to get you started:
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
-<!-- 
+
 <h2><i>Top Repositories</i></h2>
 
 
 <p>
 
 <a href="https://github.com/bhupirao/Foodie-Express">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhupirao&repo=Foodie-Express&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs"/>
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bhupirao&repo=Foodie-Express&locale=en&border_radius=0&theme=dark" alt="atulsinghmbbs"/>
    
   </a> 
 
 
    
    <a href="https://github.com/Rishon-A-Singh/Online-Cab-Booking-backend">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishon-A-Singh&repo=Online-Cab-Booking-backend&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh"/>
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rishon-A-Singh&repo=Online-Cab-Booking-backend&locale=en&border_radius=0&theme=dark" alt="Rishon-A-Singh"/>
     </a>
    
 </p>
-  -->
+ 
 
 
 
