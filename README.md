@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
-
+<!-- 
 <h2><i>Top Repositories</i></h2>
 
 
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
     </a>
    
 </p>
- 
+  -->
 
 
 
