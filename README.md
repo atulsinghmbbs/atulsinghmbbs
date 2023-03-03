@@ -96,8 +96,9 @@ Here are some ideas to get you started:
  </a>    
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghmbbs&layout=compact&exclude_repo=masai-course/brajkishor_fw17_1073,PracticeDSA=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
+<!--     <img align="center" src="https://github-readmestats.vercel.app/apiusername=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" /> -->
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atul singh" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupirao&layout=compact&exclude_repo=masai-course/atul_fw19_0455,Foodie-Express=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
 </p>
 <br>
   
@@ -138,18 +139,3 @@ Here are some ideas to get you started:
 
 
 
-
-<!--
-**BKS2315/BKS2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
