@@ -91,7 +91,8 @@ Here are some ideas to get you started:
 <!--     <img align="center" src="https://github-readmestats.vercel.app/apiusername=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atulsinghmbbs" height="139" /> -->
      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atulsinghmbbs&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="atul singh" height="139" />
 <!--     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atulsinghmbbs&theme=react&line_height=40&hide=css"/> </a> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupirao&layout=compact&exclude_repo=masai-course/atul_fw19_0455,Foodie-Express=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghmbbs&layout=compact&exclude_repo=masai-course/atul_fw19_0455,Online-Hardware-and-Software-Application=Shell&border_radius=0&theme=dark" alt="atulsinghmbbs&" height="139"/> -->
+    
 </p>
 <br>
   
