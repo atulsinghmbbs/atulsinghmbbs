@@ -102,7 +102,7 @@ Here are some ideas to get you started:
  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=atulsinghmbbs&theme=react">
         <img
           alt="Atul's Activity Graph"
-          src="https://github-readme-activity-graph.cyclic.app/graph?username=atulsinghmbbs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=atulsinghmbbs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&width=100vh"
         />
  </a>    
 </p>
