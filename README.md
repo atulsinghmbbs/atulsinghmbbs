@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Aspiring Java Backend Developer</i>
+   <i> Java Backend Developer</i>
     <i> A headstrong and inquisitive, aspiring Back-End developer, highly skilled in engineering robust and scalable applications and web API designs using Java and SpringBoot. Effective remote collaborator with an immense passion for building good software, looking forward to a sparkling career as a Java Backend Developer.</i>
 </h3
   
